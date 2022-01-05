@@ -1,7 +1,7 @@
 {
 
   "nama": "Deyko-Userbot"
-saya
+
   "description" : "[deyko-Userbot] Ini adalah UserBot Telegram dengan banyak modul keren. Ditulis dengan Python dengan Telethon dan Py-Tgcalls." ,
 
   "logo" : "https://telegra.ph/file/b2631f69f4d3ed1cafe2b.jpg" ,
@@ -50,7 +50,7 @@ saya
 
       "description": "Dapatkan String Session di Grup » https://t.me/SharingUserbot » Lalu ketik #string",
 
-      "wajib": benar
+      "wajib" : 
 
     },
 
@@ -58,7 +58,7 @@ saya
 
       "description": "Nama App heroku, Nama App yang paling pertama di isi (liat paling atas)",
 
-      "wajib": benar
+      "wajib" : 
 
     },
 
@@ -66,7 +66,7 @@ saya
 
       "description": "Ambil Heroku API KEY mu disini » https://dashboard.heroku.com/account",
 
-      "wajib": benar
+      "wajib" : 
 
     },
 
@@ -76,7 +76,7 @@ saya
 
       "value": "Isi id grup mu wajib dengan awalan -100",
 
-      "wajib": benar
+      "wajib" : 
 
     },
 
