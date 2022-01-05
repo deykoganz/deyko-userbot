@@ -8,9 +8,9 @@
 
   "keywords": ["telegram", "userbot", "man-userbot", "python"],
 
-  "repository": "https://github.com/mrisman04/Man-Deploy",
-
-  "stack": "container",
+  "repositori" : "https://github.com/deykoganz/Man-Deploy" ,
+saya
+  "tumpukan" : "wadah" ,
 
   "env": {
 
